@@ -144,4 +144,4 @@ MIT License - feel free to use this for your personal portfolio!
 
 ## Credits
 
-Built with ❤️ using modern web technologies.
+Built by Meet Nalwaya.
