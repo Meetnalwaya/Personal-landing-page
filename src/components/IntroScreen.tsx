@@ -18,7 +18,7 @@ const IntroScreen = ({ onEnter }: IntroScreenProps) => {
       <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-black to-gray-900 heavy-blur" />
       
       {/* Noise overlay */}
-      <div className="noise-overlay" />
+      {/* <div className="noise-overlay" /> */}
       
       
       {/* Click to enter text */}
